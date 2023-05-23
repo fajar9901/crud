@@ -1,0 +1,1 @@
+<nav class="main-header navbar navbar-expand navbar-white navbar-light"><?php /**PATH C:\xampp\htdocs\installlaravel\resources\views/tamplate/navbar.blade.php ENDPATH**/ ?>
